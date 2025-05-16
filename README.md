@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=rootwlen)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="49.5%"height="160"/>
   <img src="https://streak-stats.demolab.com/?user=rootwlen&theme=radical" width="49.5%" height="160"/>
