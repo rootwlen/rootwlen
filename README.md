@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<p align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&fontSize=22&width=600&lines=Man+struggles+upwards%EF%BC%9B;water+flows+downwards)
 
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="49.5%"height="160"/>
