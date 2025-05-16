@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical)![GitHub Streak](https://streak-stats.demolab.com/?user=rootwlen)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=rootwlen" height="200"/>
+</div>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rootwlen)
-
-
-
