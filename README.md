@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=435&lines=Man+struggles+upwards%EF%BC%9B+water+flows+downwards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=800&lines=Man+struggles+upwards%EF%BC%9B+water+flows+downwards)](https://git.io/typing-svg)
+
 
 
 <p align="center">
