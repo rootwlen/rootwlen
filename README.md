@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Live+to+learn;learn+to+live)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="49.5%"height="50%"/>
-  <img src="https://streak-stats.demolab.com/?user=rootwlen" width="49.5%" height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="50%"height=""/>
+  <img src="https://streak-stats.demolab.com/?user=rootwlen" width="50%" height=""/>
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rootwlen&theme=radical)
