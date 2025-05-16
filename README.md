@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="49.5%"height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=rootwlen&theme=radical" width="49.5%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rootwlen&show_icons=true&theme=radical" width="49.5%"height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=rootwlen&theme=radical" width="49.5%" height="180"/>
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rootwlen&theme=radical)
