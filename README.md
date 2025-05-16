@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rootwlen&theme=radical)
 
 
-![snake gif](https://raw.githubusercontent.com/rootwlen/rootwlen/main/dist/github-contribution-grid-snake.gif)
+
 
 
