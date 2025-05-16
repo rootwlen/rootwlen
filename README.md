@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&fontSize=22&width=600&lines=Man+struggles+upwards%EF%BC%9B;water+flows+downwards)
+
+</div>
+
 
 
 <p align="center">
